@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://howardcolin.co.uk'
 languageCode = 'en-gb'
 title = 'howardcolin'
 theme = 'typo'
@@ -40,6 +40,11 @@ url = "/posts"
 [[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "rss"
+url = "/index.xml"
+
 
 # Syntax highlight on code blocks
 [markup]
