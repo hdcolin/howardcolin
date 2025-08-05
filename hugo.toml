@@ -1,4 +1,4 @@
-baseURL = 'https://howardcolin.co.uk'
+baseurl = "https://howardcolin.co.uk/"
 languageCode = 'en-gb'
 title = 'howardcolin'
 theme = 'typo'
@@ -9,7 +9,7 @@ tag = 'tags'
 [params]
 description = "Personal Tech Blog"
 colourPalette = 'default'
-hideHeader = true 
+hideHeader = true
 theme = 'auto'
 showFooter = false
 
@@ -54,4 +54,3 @@ style = 'algol'
 # Giscus comments
 [params.giscus]
 enable = false
-
