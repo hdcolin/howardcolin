@@ -15,5 +15,5 @@ You can find me here:
 * [Github](https://github.com/hdcolin)
 * [KeyOxide](https://keyoxide.org/aspe:keyoxide.org:UEQ6QIJR4YWZRXPIBY4YVHYMAI)
 
-Or I can be emailed here: hdcolin@eml.cc 
+Or I can be emailed here: hdcolin [at] eml [dot] cc 
 
