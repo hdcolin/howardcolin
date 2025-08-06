@@ -43,7 +43,7 @@ url = "/about"
 
 [[params.menu]]
 name = "rss"
-url = "/index.xml"
+url = "/posts/index.xml"
 
 
 # Syntax highlight on code blocks

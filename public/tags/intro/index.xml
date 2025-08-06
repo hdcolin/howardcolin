@@ -1,19 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intro on howardcolin</title>
+    <title>howardcolin.co.uk</title>
     <link>http://localhost:1313/tags/intro/</link>
     <description>Recent content in Intro on howardcolin</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Introduction post</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve always liked the idea of having a separate space to write about work related techncial projects, projects that might be &lt;em&gt;too technical&lt;/em&gt;, or not completely relevent for our company blog or publications.&lt;/p&gt;
+&lt;p&gt;The main aim of this blog, is to provide me with a platform that I can write about what I have learned. I feel that being able to write and explain things for other people is a good way to increase understanding of the subject. As well as providing a repository of articles that I can look back on for reference.&lt;/p&gt;
+&lt;p&gt;The blog setup is very simple. It&amp;rsquo;s a Hugo site, running the simplest theme I could find. I write in Markdown and push to Github, where a Cloudflare worker takes over and builds and publishes the website. I may tweak the theme or settings, improving things as I go.&lt;/p&gt;
+&lt;p&gt;RSS should be working. There are two feeds:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://howardcolin.co.uk/index.xml&#34;&gt;Main Feed&lt;/a&gt; - This contains everything on the site (Pages, and Posts)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://howardcolin.co.uk/posts/index.xml&#34;&gt;Posts Feed&lt;/a&gt; - This contains just the posts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ve got some post ideas to come:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve been working on a colour science project and I&amp;rsquo;ve learned about referencing 3D coordinates from flat arrays. I want to do a post on this and break it down, so I really understand how it works.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m working through a simple matrix math library in C. I&amp;rsquo;m following along from a tutorial, but making some tweaks along the way.&lt;/li&gt;
+&lt;li&gt;Some more post-production, image workflow for film and tv related experiments, these are mostly in Golang and maybe some Python / C.&lt;/li&gt;
+&lt;li&gt;Some posts on Golang and concurrency which I am also working through.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Any questions, other ideas let me know!&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
