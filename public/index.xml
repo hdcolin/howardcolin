@@ -6,14 +6,14 @@
     <description>Recent content in Home on howardcolin</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Introduction post</description>
+      <description>I&amp;rsquo;ve always liked the idea of having a separate space to write about work related techncial projects, projects that might be &lt;em&gt;too technical&lt;/em&gt;, or not completely relevent for our company blog or publications&amp;hellip;</description>
     </item>
     <item>
       <title>About</title>
