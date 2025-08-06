@@ -1,24 +1,19 @@
-&lt;?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>howardcolin</title>
-    <link>http://localhost:1313/</link>
-    <description>Personal Tech Blog</description>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Posts on howardcolin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on howardcolin</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 UTC</pubDate>
-      <description>Hello world
-</description>
-      <content:encoded>&lt;![CDATA[<p>Hello world</p>
-]]></content:encoded>
+      <description>Introduction post</description>
     </item>
-    
   </channel>
 </rss>
