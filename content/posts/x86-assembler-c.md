@@ -16,13 +16,13 @@ I recently visited the The National Museum of Computing" - https://www.tnmoc.org
 
 The museum showcases the early code-breaking computers used during the war to crack the Enigma code, all the way through to the large mainframes of the 60’s and 70’s. Some of these mainframes have only recently been decommissioned from running power stations.
 
-It was interesting to see the adaptations that had been made to interact with these machines as modern computing had progressed. Historically they were programmed with a punched paper tape reel, however modern advancements introduced emulated paper tape programs that tricked the mainframe into thinking it had been fed a paper tape. Allowing the systems to stay (kind of) relevent.
+It was interesting to see the adaptations that had been made to interact with these machines as modern computing had progressed. Historically they were programmed with a punched paper tape reel, however modern advancements introduced emulated paper tape programs that tricked the mainframe into thinking it had been fed a paper tape. Allowing the systems to stay (kind of) relevant.
 
 Whilst wondering around the museum, it dawned on me how much modern computing has progressed. I could see how old computers really were “tools” compared to the glossy systems that we have today with complex graphical operating systems that can be used as much for recreation as well as work.
 
 I felt inspired to see if I could interact with the low-level interfaces of the modern computer that I use for work, in a simmilar way that the technicians of the past would have.
 
-Though not strictly releated to film and TV post production; I often find myself experimenting with these side projects with the aim to learn what the tools are, how they work and if I can apply them to the areas of post-production or camera related topics that I am interested in. Either making tools to support and develop processes in the buisness, to learn somthing new, or just for fun.
+Though not strictly related to film and TV post production; I often find myself experimenting with these side projects with the aim to learn what the tools are, how they work and if I can apply them to the areas of post-production or camera related topics that I am interested in. Either making tools to support and develop processes in the business, to learn something new, or just for fun.
 
 I have a general understanding of C programming and for this experiment I chose to create a simple function in x86 assembler and call it from some C code. The function just returns the number that has been passed in as an argument. The C code, then prints out the result.
 
@@ -79,4 +79,4 @@ OUTPUT:
 42
 ```
 
-I think that it's worth noting that this is purely experimental and for my own learning, to share the concept. I'm of the understanding that modern compilers are very advanced, and are able to generate optimised assembly far quicker than it would take to write it manaually. 
+I think that it's worth noting that this is purely experimental and for my own learning, to share the concept. I'm of the understanding that modern compilers are very advanced, and are able to generate optimised assembly far quicker than it would take to write it manually. 
