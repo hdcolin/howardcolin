@@ -43,13 +43,13 @@ my_function:
 
 To break this down:
 
-    `global my_function`
+`global my_function`
 
-        Declares the exported function name that will be called from the C code.
+Declares the exported function name that will be called from the C code.
 
-    `section .text``
+`section .text`
 
-        This defines the area of the code that the compiler uses to correctly place our function into the compiled binary.
+This defines the area of the code that the compiler uses to correctly place our function into the compiled binary. 
 
 ```
 push rbp
